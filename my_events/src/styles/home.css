@@ -1,0 +1,34 @@
+#parent
+{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 20px 50px;
+  width: 500px;
+}
+
+#parent:hover
+{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+#title
+{
+    font-size: 1.5rem;
+}
+
+#date
+{
+    margin-left: 460px;
+    font-weight: bold;
+}
+
+#city
+{
+    margin-left: 460px;
+    font-weight: bold;
+}
+
+img
+{
+    max-width: 160px;
+}

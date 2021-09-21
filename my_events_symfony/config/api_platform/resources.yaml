@@ -1,0 +1,7 @@
+App\Entity\User:
+    collectionOperations:
+        get:
+            method: GET
+    itemOperations:
+        get:
+            method: GET
